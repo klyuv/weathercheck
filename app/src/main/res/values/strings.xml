@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherCheck</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="fraghemn_choose_cite_textView">Название города</string>
+    <string name="tab_main">Погода</string>
+    <string name="tab_16d">16 дней</string>
+
+    <string name="API_KEY">1c8c181d070e0653f00be9ea58133124</string>
+</resources>
